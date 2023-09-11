@@ -653,6 +653,7 @@ body {
     background-color: #404BBF;
     fill: #FFFFFF;
     outline: transparent;
+    border: none;
 }
 
 .close-btn-icon {
@@ -672,7 +673,7 @@ body {
 }
 
 .review-form-wrapper {
-    margin-bottom: 16px;
+    margin-bottom: 8px;
 }
 
 .review-form-label {
