@@ -538,6 +538,8 @@ body {
     fill: #f4f4fd;
 } 
 
+
+
 /* Modal window */
 
 .backdrop {
@@ -593,7 +595,7 @@ body {
 
 /* Modal form */
 
-.review-form-descripion {
+.review-form-description {
     color: #2E2F42;
     text-align: center;
     font-size: 16px;
