@@ -538,11 +538,11 @@ body {
     fill: #f4f4fd;
 } 
 
-.footer-sub {
+.footer-modal {
     margin-left: 80px;
 }
 
-.footer-sub-name {
+.footer-modal-name {
     margin-bottom: 16px;
     font-size: 16px;
     font-weight: 500;
@@ -551,13 +551,13 @@ body {
     color: #FFFFFF
 }
 
-.footer-sub-form {
+.footer-modal-form {
     display: flex;
     gap: 24px;
 }
 
 
-.footer-sub-email {
+.footer-modal-email {
     width: 264px;
     height: 40px;
     border: 1px solid #ffffff;
@@ -571,11 +571,11 @@ body {
     color: #ffffff;
 }
 
-.footer-sub-email:placeholder {
+.footer-modal-email:placeholder {
     color: #ffffff;
 }
 
-.footer-sub-button {
+.footer-modal-button {
     min-width: 165px;
     height: 40px;
     display: flex;
@@ -592,7 +592,7 @@ body {
     border-radius: 4px;
 }
 
-.footer-sub-button-icon {
+.footer-modal-button-icon {
     margin-left: 16px;
 }
 
