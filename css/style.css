@@ -538,6 +538,10 @@ body {
     fill: #f4f4fd;
 } 
 
+.footer-sub {
+    margin-left: 80px;
+}
+
 .footer-sub-name {
     margin-bottom: 16px;
     font-size: 16px;
@@ -549,11 +553,9 @@ body {
 
 .footer-sub-form {
     display: flex;
-}
-
-.footer-sub-form-label {
     gap: 24px;
 }
+
 
 .footer-sub-email {
     width: 264px;
