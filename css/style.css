@@ -721,6 +721,10 @@ body {
     fill: #4D5AE5;
 }
 
+.review-form-wrapper {
+    margin-bottom: 16px;
+}
+
 .review-form-comment {
     width: 100%;
     height: 120px;
